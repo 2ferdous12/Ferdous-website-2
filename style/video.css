@@ -1,0 +1,241 @@
+
+
+
+.left-section{
+background-color: rgb(80, 8, 80);
+display: inline-block;
+width: 220px;
+height: 400px;
+margin-left: 120px;
+
+}
+.button-class-1{
+    height: 110px;
+    width: 200px;
+    position: relative;
+    background-color:rgba(88, 35, 233, 0.945);
+    margin-top: 85px;
+    margin-left: 75px;
+    border-style: solid;
+    border-width: 1px;
+    border: none;
+    border-radius: 8px;
+}
+.short-button{
+    display: flex;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    height: 25px;
+    width: 25px;
+    display: inline-block;
+    margin-top: 160px;
+  margin-left: 200px;
+    border-style: solid;
+    border-radius: 15px;
+    border: none;
+}
+.short-title{
+    display: flex;
+    position: relative;
+    right: 0;
+}
+.main-title{
+    color: white;
+    width: 190px;
+    font-size: 15px;
+    margin-top: 40px;
+}
+.jane-title{
+    display: inline-block;
+color: white;
+font-size: 9px;
+display: flex;
+margin-left: 10px;
+position: relative;
+}
+.p-title{
+    height: 110px;
+    width: 200px;
+    position: relative;
+    background-color:rgb(226, 226, 226);
+border-radius: 6px;
+    border-style: solid;
+    border-width: 1px;
+    border: none;
+    margin-top: 17px;
+    margin-left: 130px;
+}
+.ab-button{
+  width: 200px; 
+  height: 28px;
+  margin-top: 12px;
+  background-color: rgba(0, 0, 0, 0.774);
+  border-style: solid;
+  border-width: 1px;
+  border: none;
+}
+.ba-button{
+    width: 160px; 
+  height: 18px;
+  margin-top: 12px;
+  background-color: rgba(0, 0, 255, 0.116);
+  border-style: solid;
+  border-width: 1px;
+  border: none; 
+  margin-left: 20px; 
+}
+.por{
+color: white;
+margin-top: 1px;
+margin-left: 100px;
+font-size: 10px;
+}
+.last-bu{
+    width: 50px;
+  background-color: rgba(0, 0, 0, 0.24);
+  margin-bottom: 2px;
+  size: 12px;
+  margin-left: 12px;
+  margin-top: 25px;
+  border-style: solid;
+  border-width: 1px;
+  border: none; 
+}
+.right-section{
+    background-color:rgba(252, 248, 248, 0.932);
+   display: flex;
+    width: 450px;
+    height: 400px;
+    margin-left: -4px;
+  vertical-align: top;
+  margin-left: 0px;
+  flex-shrink: 0;
+}
+.name{
+    color: rgba(0, 0, 0, 0.733);
+    font-weight: bold;
+    font-size: 8px;
+    font-family: arial;
+}
+.seed{
+    height: 35px;
+    width: 280px;
+    font-weight: bold;
+    color: rgb(211, 205, 205);
+    padding-right: 140px;
+    border-color: rgb(224, 218, 218);
+  border-style: solid;
+    border-width: 1px;
+   border-radius: 6px;
+  
+}
+.num{
+    font-weight: bold;
+    font-size: 8px;
+    font-family: roboto, arial;
+
+}
+.e-g{
+    height: 35px;
+    width: 280px;
+    font-weight: bold;
+    color: rgb(211, 205, 205);
+   padding-right: 87px;
+    border-color: rgb(224, 218, 218);
+  border-style: solid;
+    border-width: 1px;
+   border-radius: 6px;
+}
+.exp{
+    font-weight: bold;
+    font-size: 8px;
+    font-family: roboto, arial;   
+    display: inline-block;
+    width: 120px;
+    margin-bottom: 4px;
+    margin-top: 8px;
+}
+.cvc{
+    display: inline-block;
+}
+.last-section{
+    display: inline-block;
+    vertical-align: top;
+   
+    width:300px ;
+    margin-left: 30px;
+ 
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.style{
+    
+    margin-left: 120px;
+    margin-top: 80px;
+}
+.queen{
+    display: inline-block;
+}
+.rose{
+    margin-left: 40px;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 8px;
+    font-family: roboto, arial;   
+    display: inline-block;
+}
+.double{
+    height: 35px;
+    width: 60px;
+    border-color: rgb(224, 218, 218);
+    border-style: solid;
+      border-width: 1px;
+     border-radius: 6px;
+     margin-top: -6px;
+
+}
+.kl{
+    color: rgb(211, 205, 205);
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.low{
+    height: 35px;
+    width: 150px;
+    font-weight: bold;
+    color: rgb(211, 205, 205);
+ 
+    border-color: rgb(224, 218, 218);
+  border-style: solid;
+    border-width: 1px;
+   border-radius: 6px;   
+}
+.kl-1{
+    color: rgb(211, 205, 205);
+    margin-bottom: 5px;
+    margin-top: 5px; 
+    margin-right: 15px;
+}
+.low-p{
+    height: 44px;
+    width: 285px;
+    font-weight: bold;
+   background-color: rgb(58, 3, 58);
+  
+    border-color: rgb(224, 218, 218);
+  border-style: solid;
+    border-width: 1px;
+   border-radius: 6px;
+   border-radius: 10px;
+   margin-top: 20px;
+}
+.con{
+    color: white;
+    font-size: 14px;
+    margin-top: 1px;
+    margin-bottom: 3px;
+}
